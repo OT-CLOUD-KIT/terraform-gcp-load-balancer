@@ -9,8 +9,7 @@ This Terraform configuration dynamically provisions a Google Cloud Load Balancer
 
 ## Architecture
 
-<img width="6000" length="8000" alt="Terraform" src="https://github.com/user-attachments/assets/26c523f3-290d-4be9-bc8b-39fbca89478b">
-
+<img width="1000" length="1000" alt="Terraform" src="https://github.com/user-attachments/assets/961f0a67-5089-4a2c-9b15-93107bddd6e1">
 
 
 ## Providers
